@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "myPhone", "myPhone.pyproj", "{17B5C9D9-A38F-4A56-B718-BBB062A5130E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B5C9D9-A38F-4A56-B718-BBB062A5130E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B5C9D9-A38F-4A56-B718-BBB062A5130E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4198E5F8-17E0-48C4-90FB-FE704D3C4374}
+	EndGlobalSection
+EndGlobal
